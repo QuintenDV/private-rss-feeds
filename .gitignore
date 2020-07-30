@@ -1,0 +1,6 @@
+__pycache__/
+resources/podcasts/*/images/
+resources/podcasts/*/mp3s/
+.env
+.vscode/
+target/

@@ -1,0 +1,29 @@
+<channel>
+    <title>%(title)s</title>
+    <description>%(description)s</description>
+    <itunes:summary>%(summary)s</itunes:summary>
+    <itunes:subtitle>%(subtitle)s</itunes:subtitle>
+    <link>%(link)s</link>
+    <pubDate>%(pub-date)s</pubDate>
+    <language>%(language)s</language>
+    <managingEditor>%(managingEditor)s</managingEditor>
+    <webMaster>%(webMaster)s</webMaster>
+    <copyright>%(copyright)s</copyright>
+
+    <itunes:author>%(itunes-author)s</itunes:author>
+    <itunes:image href="%(image)s" />
+    <image>
+        <url>%(image)s</url>
+        <link>%(link)s</link>
+        <title>%(title)s</title>
+    </image>
+    <itunes:owner>
+      <itunes:name>%(managingEditor)s</itunes:name>
+      <itunes:email>%(email)s </itunes:email>
+    </itunes:owner>
+    <itunes:keywords>%(keywords)s</itunes:keywords>
+    <itunes:category text="%(category)s">
+      <itunes:category text="%(sub-category)s" />
+    </itunes:category>
+    <itunes:explicit>%(itunes-explicit)s</itunes:explicit>
+</channel>

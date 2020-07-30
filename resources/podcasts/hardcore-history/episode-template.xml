@@ -1,0 +1,13 @@
+<item>
+    <title>%(title)s</title>
+    <guid>%(file_path)s</guid>
+    <description>%(description)s</description>
+    <itunes:summary>%(summary)s</itunes:summary>
+    <itunes:subtitle>%(subtitle)s</itunes:subtitle>
+    <link>%(link)s</link>
+    <pubDate>%(pub-date)s</pubDate>
+    <enclosure url="%(file_path)s" length="%(file-size)s" type="audio/mpeg" />
+    <itunes:duration>%(duration)s</itunes:duration>
+    <itunes:keywords>%(keywords)s</itunes:keywords>
+    <itunes:image>%(default-episode-image)s</itunes:image>
+</item>

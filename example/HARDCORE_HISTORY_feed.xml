@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?>
+<?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+    <title>Hardcore History (private)</title>
+    <description>Was Alexander the Great as bad a person as Hitler? What was the greatest army of all time? Which U.S. President was the worst? Hardcore History discusses the issues and questions history fans love.</description>
+    <itunes:summary>In "Hardcore History" the very unconventional Dan Carlin takes his "Martian", outside-the-box way of thinking and applies it to the past. Was Alexander the Great as bad a person as Adolf Hitler? What would Apaches with modern weapons be like? Will our modern civilization ever fall like civilizations from past eras? This is a difficult-to-classify show that has a rather sharp edge. It's not for everyone. But the innovative style and approach has made "Dan Carlin's Hardcore History" a New Media hit. </itunes:summary>
+    <itunes:subtitle>Was Alexander the Great as bad a person as Hitler? What was the greatest army of all time? Which U.S. President was the worst? Hardcore History discusses the issues and questions history fans love.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Thu, 27 Jul 2006 10:00:00 PST</pubDate>
+    <language>en-us</language>
+    <managingEditor>dan@dancarlin.com (Dan Carlin)</managingEditor>
+    <webMaster>dan@dancarlin.com (Dan Carlin)</webMaster>
+    <copyright>dancarlin.com</copyright>
+
+    <itunes:author>Dan Carlin</itunes:author>
+    <itunes:image href="http://example.com/resources/podcasts/hardcore-history/images/HH.jpg" />
+    <image>
+        <url>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</url>
+        <link>http://www.dancarlin.com</link>
+        <title>Hardcore History (private)</title>
+    </image>
+    <itunes:owner>
+      <itunes:name>dan@dancarlin.com (Dan Carlin)</itunes:name>
+      <itunes:email>dan@dancarlin.com </itunes:email>
+    </itunes:owner>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="History" />
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+</channel>
+
+<item>
+    <title>01 - Alexander versus Hitler</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/01-Alexander_versus_Hitler.mp3</guid>
+    <description>Dan compares the way the modern world sees Adolf Hitler with the way history views Alexander the Great and wonders if the two men weren’t more alike than different.</description>
+    <itunes:summary>Dan compares the way the modern world sees Adolf Hitler with the way history views Alexander the Great and wonders if the two men weren’t more alike than different.</itunes:summary>
+    <itunes:subtitle>Dan compares the way the modern world sees Adolf Hitler with the way history views Alexander the Great and wonders if the two men weren’t more alike than different.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Wed, 26 Jul 2006 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/01-Alexander_versus_Hitler.mp3" length="16541992" type="audio/mpeg" />
+    <itunes:duration>1007.2294375</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>02 - Guns and Horses</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/02-Guns_and_Horses.mp3</guid>
+    <description>The West is Mike Tyson and the East is Muhammad Ali in this episode as Dan mixes Art Bell, with Hans Delbruck in this look at a possible reason for the military decline of the near East.</description>
+    <itunes:summary>The West is Mike Tyson and the East is Muhammad Ali in this episode as Dan mixes Art Bell, with Hans Delbruck in this look at a possible reason for the military decline of the near East.</itunes:summary>
+    <itunes:subtitle>The West is Mike Tyson and the East is Muhammad Ali in this episode as Dan mixes Art Bell, with Hans Delbruck in this look at a possible reason for the military decline of the near East.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Tue, 26 Sep 2006 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/02-Guns_and_Horses.mp3" length="33882431" type="audio/mpeg" />
+    <itunes:duration>2096.0654375</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>03 - The Organization of Peace</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/03-The_Organization_of_Peace.mp3</guid>
+    <description>The early 20th century League of Nations stood for peace, cooperation, disarmament and international understanding. What happened?</description>
+    <itunes:summary>The early 20th century League of Nations stood for peace, cooperation, disarmament and international understanding. What happened?</itunes:summary>
+    <itunes:subtitle>The early 20th century League of Nations stood for peace, cooperation, disarmament and international understanding. What happened?</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Wed, 04 Oct 2006 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/03-The_Organization_of_Peace.mp3" length="40893278" type="audio/mpeg" />
+    <itunes:duration>2533.067875</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>04 - Romancing The Tribes</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/04-Romancing_The_Tribes.mp3</guid>
+    <description>Native American chief Tecumseh and Gallic king Vercingetorix both tried to unify their tribal peoples to face overwhelming foes. Dan examines the romance of their lost causes.</description>
+    <itunes:summary>Native American chief Tecumseh and Gallic king Vercingetorix both tried to unify their tribal peoples to face overwhelming foes. Dan examines the romance of their lost causes.</itunes:summary>
+    <itunes:subtitle>Native American chief Tecumseh and Gallic king Vercingetorix both tried to unify their tribal peoples to face overwhelming foes. Dan examines the romance of their lost causes.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Tue, 24 Oct 2006 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/04-Romancing_The_Tribes.mp3" length="30817600" type="audio/mpeg" />
+    <itunes:duration>1904.065375</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>05 - Meandering Through The Cold War</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/05-Meandering_Through_The_Cold_War.mp3</guid>
+    <description>Dan meanders through a conversation about causes and effects of the Cold War without ever talking much about the actual events of the conflict.</description>
+    <itunes:summary>Dan meanders through a conversation about causes and effects of the Cold War without ever talking much about the actual events of the conflict.</itunes:summary>
+    <itunes:subtitle>Dan meanders through a conversation about causes and effects of the Cold War without ever talking much about the actual events of the conflict.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Tue, 14 Nov 2006 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/05-Meandering_Through_The_Cold_War.mp3" length="46998192" type="audio/mpeg" />
+    <itunes:duration>2914.0638125</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>06 - Shield of the West</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/06-Shield_of_the_West.mp3</guid>
+    <description>Spartans, Athenians, Persians and references to Star Trek all make appearances in this look at the dramatic and extremely consequential Greek and Persian wars.</description>
+    <itunes:summary>Spartans, Athenians, Persians and references to Star Trek all make appearances in this look at the dramatic and extremely consequential Greek and Persian wars.</itunes:summary>
+    <itunes:subtitle>Spartans, Athenians, Persians and references to Star Trek all make appearances in this look at the dramatic and extremely consequential Greek and Persian wars.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Fri, 08 Dec 2006 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/06-Shield_of_the_West.mp3" length="57148295" type="audio/mpeg" />
+    <itunes:duration>3550.0670625</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>07 - The X-History Files</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/07-The_X-History_Files.mp3</guid>
+    <description>Napoleon is supposed to have said that “History is a set of lies agreed upon”. With that in mind, Dan looks at some of the alternative and pseudo history ideas that many people embrace.</description>
+    <itunes:summary>Napoleon is supposed to have said that “History is a set of lies agreed upon”. With that in mind, Dan looks at some of the alternative and pseudo history ideas that many people embrace.</itunes:summary>
+    <itunes:subtitle>Napoleon is supposed to have said that “History is a set of lies agreed upon”. With that in mind, Dan looks at some of the alternative and pseudo history ideas that many people embrace.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Wed, 27 Dec 2006 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/07-The_X-History_Files.mp3" length="31030778" type="audio/mpeg" />
+    <itunes:duration>1918.0670625</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>08 - Scars of the Great War</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/08-Scars_of_the_Great_War.mp3</guid>
+    <description>Dan looks at the shock and awe caused by the First World War and marvels at how connected we still are to the empire-shattering effects of the conflict contemporaries simply referred to as The Great War.</description>
+    <itunes:summary>Dan looks at the shock and awe caused by the First World War and marvels at how connected we still are to the empire-shattering effects of the conflict contemporaries simply referred to as The Great War.</itunes:summary>
+    <itunes:subtitle>Dan looks at the shock and awe caused by the First World War and marvels at how connected we still are to the empire-shattering effects of the conflict contemporaries simply referred to as The Great War.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Sat, 27 Jan 2007 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/08-Scars_of_the_Great_War.mp3" length="39369123" type="audio/mpeg" />
+    <itunes:duration>2438.32175</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>09 - Darkness Buries the Bronze Age</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/09-Darkness_Buries_the_Bronze_Age.mp3</guid>
+    <description>What was the cause of the collapse of the Bronze Age? War? Famine? Natural disaster? Sauron the Dark Lord? Dan looks at all the potential villains…except for Sauron.</description>
+    <itunes:summary>What was the cause of the collapse of the Bronze Age? War? Famine? Natural disaster? Sauron the Dark Lord? Dan looks at all the potential villains…except for Sauron.</itunes:summary>
+    <itunes:subtitle>What was the cause of the collapse of the Bronze Age? War? Famine? Natural disaster? Sauron the Dark Lord? Dan looks at all the potential villains…except for Sauron.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Fri, 16 Feb 2007 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/09-Darkness_Buries_the_Bronze_Age.mp3" length="32794148" type="audio/mpeg" />
+    <itunes:duration>2026.05725</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>10 - The What-Ifs of 1066</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/10-The_What-Ifs_of_1066.mp3</guid>
+    <description>How might history have been changed if the events of the momentous year 1066 had turned out differently? Dan examines Normans, Vikings, Saxons, Bastards, Conquerers, Confessors, Godwinsons and Hardratas.</description>
+    <itunes:summary>How might history have been changed if the events of the momentous year 1066 had turned out differently? Dan examines Normans, Vikings, Saxons, Bastards, Conquerers, Confessors, Godwinsons and Hardratas.</itunes:summary>
+    <itunes:subtitle>How might history have been changed if the events of the momentous year 1066 had turned out differently? Dan examines Normans, Vikings, Saxons, Bastards, Conquerers, Confessors, Godwinsons and Hardratas.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Tue, 13 Mar 2007 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/10-The_What-Ifs_of_1066.mp3" length="46042166" type="audio/mpeg" />
+    <itunes:duration>2855.863</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>11 - Thoughts on Churchill</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/11-Thoughts_on_Churchill.mp3</guid>
+    <description>We almost called this show “Things about Churchill that have interested Dan”. Dan takes a look at various elements of the dramatic life and career of the great British leader.</description>
+    <itunes:summary>We almost called this show “Things about Churchill that have interested Dan”. Dan takes a look at various elements of the dramatic life and career of the great British leader.</itunes:summary>
+    <itunes:subtitle>We almost called this show “Things about Churchill that have interested Dan”. Dan takes a look at various elements of the dramatic life and career of the great British leader.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Wed, 11 Apr 2007 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/11-Thoughts_on_Churchill.mp3" length="53271199" type="audio/mpeg" />
+    <itunes:duration>3230.5373125</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>12 - Steppe Stories</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/12-Steppe_Stories.mp3</guid>
+    <description>Blood-sucking Scythian warriors, tattooed ice mummies, Amazons killing so they can mate, pot smoking head-hunters, scalp-taking, koumiss-drinking Mongols, Turks, Huns, and Aliens. What’s not to like?</description>
+    <itunes:summary>Blood-sucking Scythian warriors, tattooed ice mummies, Amazons killing so they can mate, pot smoking head-hunters, scalp-taking, koumiss-drinking Mongols, Turks, Huns, and Aliens. What’s not to like?</itunes:summary>
+    <itunes:subtitle>Blood-sucking Scythian warriors, tattooed ice mummies, Amazons killing so they can mate, pot smoking head-hunters, scalp-taking, koumiss-drinking Mongols, Turks, Huns, and Aliens. What’s not to like?</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Tue, 08 May 2007 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/12-Steppe_Stories.mp3" length="56659744" type="audio/mpeg" />
+    <itunes:duration>3519.3731875</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>13 - Bubonic Nukes</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/13-Bubonic_Nukes.mp3</guid>
+    <description>What would happen if half the population died in a short period of time? Dan looks at the Black Death and other plagues that created almost apocalyptic conditions in the past…and maybe in the future.</description>
+    <itunes:summary>What would happen if half the population died in a short period of time? Dan looks at the Black Death and other plagues that created almost apocalyptic conditions in the past…and maybe in the future.</itunes:summary>
+    <itunes:subtitle>What would happen if half the population died in a short period of time? Dan looks at the Black Death and other plagues that created almost apocalyptic conditions in the past…and maybe in the future.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Wed, 13 Jun 2007 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/13-Bubonic_Nukes.mp3" length="46013009" type="audio/mpeg" />
+    <itunes:duration>2854.374</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>14 - The Macedonian Soap Opera</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/14-The_Macedonian_Soap_Opera.mp3</guid>
+    <description>When Alexander the Great bequeathed his empire “to the strongest” he set off a funeral contest that shook the world for decades. Murder, marriage, intrigue,and drama all feature prominently in the story.</description>
+    <itunes:summary>When Alexander the Great bequeathed his empire “to the strongest” he set off a funeral contest that shook the world for decades. Murder, marriage, intrigue,and drama all feature prominently in the story.</itunes:summary>
+    <itunes:subtitle>When Alexander the Great bequeathed his empire “to the strongest” he set off a funeral contest that shook the world for decades. Murder, marriage, intrigue,and drama all feature prominently in the story.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Wed, 18 Jul 2007 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/14-The_Macedonian_Soap_Opera.mp3" length="47855442" type="audio/mpeg" />
+    <itunes:duration>2968.058875</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>15 - Desperate Times</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/15-Desperate_Times.mp3</guid>
+    <description>The tough economic climate after the First World War fostered the growth of radicalism around the world. Did it also create tougher people? Dan looks at the connection between tough times and the “Greatest Generation”.</description>
+    <itunes:summary>The tough economic climate after the First World War fostered the growth of radicalism around the world. Did it also create tougher people? Dan looks at the connection between tough times and the “Greatest Generation”.</itunes:summary>
+    <itunes:subtitle>The tough economic climate after the First World War fostered the growth of radicalism around the world. Did it also create tougher people? Dan looks at the connection between tough times and the “Greatest Generation”.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Thu, 30 Aug 2007 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/15-Desperate_Times.mp3" length="40701050" type="audio/mpeg" />
+    <itunes:duration>2522.0703125</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>16 - Nazi Tidbits</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/16-Nazi_Tidbits.mp3</guid>
+    <description>What accounts for the fascination people still have with Adolf Hitler and the Nazis? Dan looks at some of the ideas of the German National Socialists and examines the demonic, charismatic Nazi Fuhrer.</description>
+    <itunes:summary>What accounts for the fascination people still have with Adolf Hitler and the Nazis? Dan looks at some of the ideas of the German National Socialists and examines the demonic, charismatic Nazi Fuhrer.</itunes:summary>
+    <itunes:subtitle>What accounts for the fascination people still have with Adolf Hitler and the Nazis? Dan looks at some of the ideas of the German National Socialists and examines the demonic, charismatic Nazi Fuhrer.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Wed, 17 Oct 2007 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/16-Nazi_Tidbits.mp3" length="57308136" type="audio/mpeg" />
+    <itunes:duration>3560.6989375</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>17 - Judgment at Nineveh</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/17-Judgment_at_Nineveh.mp3</guid>
+    <description>Will our modern society ever decline and fall? Dan uses that idea as a backdrop for a look at the first great empire in history, the biblical-era Assyrians. Were they ancient Nazis, or the guardians of civilization?</description>
+    <itunes:summary>Will our modern society ever decline and fall? Dan uses that idea as a backdrop for a look at the first great empire in history, the biblical-era Assyrians. Were they ancient Nazis, or the guardians of civilization?</itunes:summary>
+    <itunes:subtitle>Will our modern society ever decline and fall? Dan uses that idea as a backdrop for a look at the first great empire in history, the biblical-era Assyrians. Were they ancient Nazis, or the guardians of civilization?</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Fri, 14 Dec 2007 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/17-Judgment_at_Nineveh.mp3" length="61931649" type="audio/mpeg" />
+    <itunes:duration>3848.5683125</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>18 - A Fly on James Burke's Wall</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/18-A_Fly_on_James_Burke's_Wall.mp3</guid>
+    <description>In this episode, Dan discusses history with famed television host, author and science historian James Burke, the man the Washington Post called “one of the most intriguing minds in the Western world”.</description>
+    <itunes:summary>In this episode, Dan discusses history with famed television host, author and science historian James Burke, the man the Washington Post called “one of the most intriguing minds in the Western world”.</itunes:summary>
+    <itunes:subtitle>In this episode, Dan discusses history with famed television host, author and science historian James Burke, the man the Washington Post called “one of the most intriguing minds in the Western world”.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Wed, 02 Jan 2008 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/18-A_Fly_on_James_Burke's_Wall.mp3" length="43456386" type="audio/mpeg" />
+    <itunes:duration>2693.4335625</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>19 - Apache Tears</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/19-Apache_Tears.mp3</guid>
+    <description>A traumatized people who traumatized their neighbors, the Native American tribe known as Apache were among the last Indians to surrender to the U.S. Government. Dan, of course, has thoughts. This is a long show!</description>
+    <itunes:summary>A traumatized people who traumatized their neighbors, the Native American tribe known as Apache were among the last Indians to surrender to the U.S. Government. Dan, of course, has thoughts. This is a long show!</itunes:summary>
+    <itunes:subtitle>A traumatized people who traumatized their neighbors, the Native American tribe known as Apache were among the last Indians to surrender to the U.S. Government. Dan, of course, has thoughts. This is a long show!</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Fri, 14 Mar 2008 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/19-Apache_Tears.mp3" length="76246453" type="audio/mpeg" />
+    <itunes:duration>4703.47775</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>20 - (BLITZ) History Under the Influence</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/20-(BLITZ)_History_Under_the_Influence.mp3</guid>
+    <description>This first “Blitz Edition” of the show looks at the hidden side of history, the impact of drugs and alcohol on past events. Dan has a whole list of historical figures he wants to drug test.</description>
+    <itunes:summary>This first “Blitz Edition” of the show looks at the hidden side of history, the impact of drugs and alcohol on past events. Dan has a whole list of historical figures he wants to drug test.</itunes:summary>
+    <itunes:subtitle>This first “Blitz Edition” of the show looks at the hidden side of history, the impact of drugs and alcohol on past events. Dan has a whole list of historical figures he wants to drug test.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Tue, 06 May 2008 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/20-(BLITZ)_History_Under_the_Influence.mp3" length="39544454" type="audio/mpeg" />
+    <itunes:duration>2448.431125</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>21 - Punic Nightmares I</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/21-Punic_Nightmares_I.mp3</guid>
+    <description>Was it geopolitics or simply bitter hatred that fueled the ancient bloodbaths known as “The Punic Wars”? Dan highlights the unimaginable things people experienced during this intense face-off between Rome and Carthage.</description>
+    <itunes:summary>Was it geopolitics or simply bitter hatred that fueled the ancient bloodbaths known as “The Punic Wars”? Dan highlights the unimaginable things people experienced during this intense face-off between Rome and Carthage.</itunes:summary>
+    <itunes:subtitle>Was it geopolitics or simply bitter hatred that fueled the ancient bloodbaths known as “The Punic Wars”? Dan highlights the unimaginable things people experienced during this intense face-off between Rome and Carthage.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Sun, 27 Jul 2008 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/21-Punic_Nightmares_I.mp3" length="56945599" type="audio/mpeg" />
+    <itunes:duration>3535.49075</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>22 - Punic Nightmares II</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/22-Punic_Nightmares_II.mp3</guid>
+    <description>Darkness, horror, war and carnage dominate Part 2 of the Punic War trilogy as Hannibal rampages across Italy and pushes Rome to the brink of doom.</description>
+    <itunes:summary>Darkness, horror, war and carnage dominate Part 2 of the Punic War trilogy as Hannibal rampages across Italy and pushes Rome to the brink of doom.</itunes:summary>
+    <itunes:subtitle>Darkness, horror, war and carnage dominate Part 2 of the Punic War trilogy as Hannibal rampages across Italy and pushes Rome to the brink of doom.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Thu, 18 Sep 2008 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/22-Punic_Nightmares_II.mp3" length="76097735" type="audio/mpeg" />
+    <itunes:duration>4732.4998125</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>23 - Punic Nightmares III</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/23-Punic_Nightmares_III.mp3</guid>
+    <description>In one of the great displays of resiliency in all history, the Romans refuse to buckle under murderous Carthaginian pressure. Instead they recover, defeat and destroy Carthage, and conquer most of the Mediterranean.</description>
+    <itunes:summary>In one of the great displays of resiliency in all history, the Romans refuse to buckle under murderous Carthaginian pressure. Instead they recover, defeat and destroy Carthage, and conquer most of the Mediterranean.</itunes:summary>
+    <itunes:subtitle>In one of the great displays of resiliency in all history, the Romans refuse to buckle under murderous Carthaginian pressure. Instead they recover, defeat and destroy Carthage, and conquer most of the Mediterranean.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Thu, 30 Oct 2008 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/23-Punic_Nightmares_III.mp3" length="91111366" type="audio/mpeg" />
+    <itunes:duration>5651.3046875</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>24 - Classical Hanson</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/24-Classical_Hanson.mp3</guid>
+    <description>Dan discusses history with famed historian, political commentator and classicist Victor Davis Hanson.</description>
+    <itunes:summary>Dan discusses history with famed historian, political commentator and classicist Victor Davis Hanson.</itunes:summary>
+    <itunes:subtitle>Dan discusses history with famed historian, political commentator and classicist Victor Davis Hanson.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Fri, 21 Nov 2008 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/24-Classical_Hanson.mp3" length="34547138" type="audio/mpeg" />
+    <itunes:duration>2137.41725</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>25 - The Dyer Outlook</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/25-The_Dyer_Outlook.mp3</guid>
+    <description>Dan discusses the past, present and future with influential Canadian historian, broadcaster and columnist Gwynne Dyer.</description>
+    <itunes:summary>Dan discusses the past, present and future with influential Canadian historian, broadcaster and columnist Gwynne Dyer.</itunes:summary>
+    <itunes:subtitle>Dan discusses the past, present and future with influential Canadian historian, broadcaster and columnist Gwynne Dyer.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Tue, 20 Jan 2009 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/25-The_Dyer_Outlook.mp3" length="57381333" type="audio/mpeg" />
+    <itunes:duration>3564.5650625</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>26 - (BLITZ) Addicted to Bondage</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/26-(BLITZ)_Addicted_to_Bondage.mp3</guid>
+    <description>Is slavery a natural feature of human societies? Dan looks at this timeless, evil institution and wonders if we have made as much progress freeing ourselves from its influence as we think we have.</description>
+    <itunes:summary>Is slavery a natural feature of human societies? Dan looks at this timeless, evil institution and wonders if we have made as much progress freeing ourselves from its influence as we think we have.</itunes:summary>
+    <itunes:subtitle>Is slavery a natural feature of human societies? Dan looks at this timeless, evil institution and wonders if we have made as much progress freeing ourselves from its influence as we think we have.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Tue, 03 Feb 2009 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/26-(BLITZ)_Addicted_to_Bondage.mp3" length="62322033" type="audio/mpeg" />
+    <itunes:duration>3872.33975</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>27 - Ghosts of the Ostfront I</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/27-Ghosts_of_the_Ostfront_I.mp3</guid>
+    <description>Part One covering the conflict between the Germans and the Soviet Union in the Second World War. Dan gives an introduction to the subject and discusses the causes and opening moves of Operation Barbarossa.</description>
+    <itunes:summary>Part One covering the conflict between the Germans and the Soviet Union in the Second World War. Dan gives an introduction to the subject and discusses the causes and opening moves of Operation Barbarossa.</itunes:summary>
+    <itunes:subtitle>Part One covering the conflict between the Germans and the Soviet Union in the Second World War. Dan gives an introduction to the subject and discusses the causes and opening moves of Operation Barbarossa.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Sun, 19 Apr 2009 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/27-Ghosts_of_the_Ostfront_I.mp3" length="65133169" type="audio/mpeg" />
+    <itunes:duration>3953.9463125</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>28 - Ghosts of the Ostfront II</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/28-Ghosts_of_the_Ostfront_II.mp3</guid>
+    <description>In Part Two of the Ostfront series covering WW2 on the Eastern Front, Dan looks at the attempt to take Moscow and the many compelling stories surrounding the momentous1941 German offensive.</description>
+    <itunes:summary>In Part Two of the Ostfront series covering WW2 on the Eastern Front, Dan looks at the attempt to take Moscow and the many compelling stories surrounding the momentous1941 German offensive.</itunes:summary>
+    <itunes:subtitle>In Part Two of the Ostfront series covering WW2 on the Eastern Front, Dan looks at the attempt to take Moscow and the many compelling stories surrounding the momentous1941 German offensive.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Wed, 17 Jun 2009 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/28-Ghosts_of_the_Ostfront_II.mp3" length="87106120" type="audio/mpeg" />
+    <itunes:duration>5327.25575</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>29 - Ghosts of the Ostfront III</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/29-Ghosts_of_the_Ostfront_III.mp3</guid>
+    <description>In Part Three of the Ostfront series covering WW2 on the Eastern Front, Dan looks at the situation in the U.S.S.R. during 1942 and early 1943, including the dreadful Battle of Stalingrad.</description>
+    <itunes:summary>In Part Three of the Ostfront series covering WW2 on the Eastern Front, Dan looks at the situation in the U.S.S.R. during 1942 and early 1943, including the dreadful Battle of Stalingrad.</itunes:summary>
+    <itunes:subtitle>In Part Three of the Ostfront series covering WW2 on the Eastern Front, Dan looks at the situation in the U.S.S.R. during 1942 and early 1943, including the dreadful Battle of Stalingrad.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Mon, 10 Aug 2009 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/29-Ghosts_of_the_Ostfront_III.mp3" length="88588203" type="audio/mpeg" />
+    <itunes:duration>5419.8859375</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>30 - Ghosts of the Ostfront IV</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/30-Ghosts_of_the_Ostfront_IV.mp3</guid>
+    <description>In the final episode of the horror story that is the Eastern Front the tale descends into unimaginable darkness as vengeance is called down on Germany. This graphic episode is not for young ears.</description>
+    <itunes:summary>In the final episode of the horror story that is the Eastern Front the tale descends into unimaginable darkness as vengeance is called down on Germany. This graphic episode is not for young ears.</itunes:summary>
+    <itunes:subtitle>In the final episode of the horror story that is the Eastern Front the tale descends into unimaginable darkness as vengeance is called down on Germany. This graphic episode is not for young ears.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Sat, 10 Oct 2009 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/30-Ghosts_of_the_Ostfront_IV.mp3" length="97463984" type="audio/mpeg" />
+    <itunes:duration>5974.62225</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>31 - (BLITZ) Suffer the Children</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/31-(BLITZ)_Suffer_the_Children.mp3</guid>
+    <description>Dan’s exposure to the idea of “psychohistory” gets him thinking about how children were raised in the past. Could widespread child abuse and bad parenting in earlier eras explain some of history’s brutality?</description>
+    <itunes:summary>Dan’s exposure to the idea of “psychohistory” gets him thinking about how children were raised in the past. Could widespread child abuse and bad parenting in earlier eras explain some of history’s brutality?</itunes:summary>
+    <itunes:subtitle>Dan’s exposure to the idea of “psychohistory” gets him thinking about how children were raised in the past. Could widespread child abuse and bad parenting in earlier eras explain some of history’s brutality?</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Wed, 09 Dec 2009 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/31-(BLITZ)_Suffer_the_Children.mp3" length="55663495" type="audio/mpeg" />
+    <itunes:duration>3456.7054375</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>32 - Globalization Unto Death</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/32-Globalization_Unto_Death.mp3</guid>
+    <description>Ferdinand Magellan is the lead character in this episode about the collision between the Old and New worlds and what Dan calls “Globalization 1.0″. It is also full of controversy!</description>
+    <itunes:summary>Ferdinand Magellan is the lead character in this episode about the collision between the Old and New worlds and what Dan calls “Globalization 1.0″. It is also full of controversy!</itunes:summary>
+    <itunes:subtitle>Ferdinand Magellan is the lead character in this episode about the collision between the Old and New worlds and what Dan calls “Globalization 1.0″. It is also full of controversy!</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Sat, 27 Feb 2010 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/32-Globalization_Unto_Death.mp3" length="65910335" type="audio/mpeg" />
+    <itunes:duration>5464.957583333334</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>33 - (BLITZ) Old School Toughness</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/33-(BLITZ)_Old_School_Toughness.mp3</guid>
+    <description>Does the toughness of peoples play any role in history? How can historians deal with such an amorphous human quality? Historiography, boxing, barbarians, philosophy and wisdom are among the subjects touched upon</description>
+    <itunes:summary>Does the toughness of peoples play any role in history? How can historians deal with such an amorphous human quality? Historiography, boxing, barbarians, philosophy and wisdom are among the subjects touched upon</itunes:summary>
+    <itunes:subtitle>Does the toughness of peoples play any role in history? How can historians deal with such an amorphous human quality? Historiography, boxing, barbarians, philosophy and wisdom are among the subjects touched upon</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Tue, 27 Apr 2010 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/33-(BLITZ)_Old_School_Toughness.mp3" length="44853969" type="audio/mpeg" />
+    <itunes:duration>3710.0408333333335</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>34 - Death Throes of the Republic I</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/34-Death_Throes_of_the_Republic_I.mp3</guid>
+    <description>The wars which elevate Rome to superpower status also sow the seed for the downfall of its political system. Money, slaves, ambition, political stalemate and class warfare prove to be a toxic, bloody mix</description>
+    <itunes:summary>The wars which elevate Rome to superpower status also sow the seed for the downfall of its political system. Money, slaves, ambition, political stalemate and class warfare prove to be a toxic, bloody mix</itunes:summary>
+    <itunes:subtitle>The wars which elevate Rome to superpower status also sow the seed for the downfall of its political system. Money, slaves, ambition, political stalemate and class warfare prove to be a toxic, bloody mix</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Mon, 28 Jun 2010 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/34-Death_Throes_of_the_Republic_I.mp3" length="79262299" type="audio/mpeg" />
+    <itunes:duration>4942.4981875</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>35 - Death Throes of the Republic II</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/35-Death_Throes_of_the_Republic_II.mp3</guid>
+    <description>Disaster threatens the Republic, but the cure might be worse than the disease. “The Dan Carlin version” of this story continues with ambition-addict Marius dominating the story and Plutarch dominating the sources.</description>
+    <itunes:summary>Disaster threatens the Republic, but the cure might be worse than the disease. “The Dan Carlin version” of this story continues with ambition-addict Marius dominating the story and Plutarch dominating the sources.</itunes:summary>
+    <itunes:subtitle>Disaster threatens the Republic, but the cure might be worse than the disease. “The Dan Carlin version” of this story continues with ambition-addict Marius dominating the story and Plutarch dominating the sources.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Sun, 29 Aug 2010 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/35-Death_Throes_of_the_Republic_II.mp3" length="91625696" type="audio/mpeg" />
+    <itunes:duration>5715.20025</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>36 - Death Throes of the Republic III</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/36-Death_Throes_of_the_Republic_III.mp3</guid>
+    <description>Rome’s political violence expands in intensity from riots and assassinations to outright war as the hyper-ambitious generals Marius and Sulla tear the Republic and its constitution apart vying for power and glory.</description>
+    <itunes:summary>Rome’s political violence expands in intensity from riots and assassinations to outright war as the hyper-ambitious generals Marius and Sulla tear the Republic and its constitution apart vying for power and glory.</itunes:summary>
+    <itunes:subtitle>Rome’s political violence expands in intensity from riots and assassinations to outright war as the hyper-ambitious generals Marius and Sulla tear the Republic and its constitution apart vying for power and glory.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Sun, 31 Oct 2010 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/36-Death_Throes_of_the_Republic_III.mp3" length="94054344" type="audio/mpeg" />
+    <itunes:duration>5866.9455625</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>37 - Death Throes of the Republic IV</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/37-Death_Throes_of_the_Republic_IV.mp3</guid>
+    <description>Sulla returns to Rome to show the Republic what REAL political violence looks like. Civil war and deadly partisan payback will pave the way for reforms pushed at sword point. Lots of heads will roll…literally.</description>
+    <itunes:summary>Sulla returns to Rome to show the Republic what REAL political violence looks like. Civil war and deadly partisan payback will pave the way for reforms pushed at sword point. Lots of heads will roll…literally.</itunes:summary>
+    <itunes:subtitle>Sulla returns to Rome to show the Republic what REAL political violence looks like. Civil war and deadly partisan payback will pave the way for reforms pushed at sword point. Lots of heads will roll…literally.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Fri, 28 Jan 2011 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/37-Death_Throes_of_the_Republic_IV.mp3" length="102241547" type="audio/mpeg" />
+    <itunes:duration>5102.88975</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>38 - Death Throes of the Republic V</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/38-Death_Throes_of_the_Republic_V.mp3</guid>
+    <description>The last great generation of the Roman Republic emerges from the historical mists. The dynamic between Caesar, Cato, Cicero, Crassus and Pompey forms the axis around which the rest of this tale revolves.</description>
+    <itunes:summary>The last great generation of the Roman Republic emerges from the historical mists. The dynamic between Caesar, Cato, Cicero, Crassus and Pompey forms the axis around which the rest of this tale revolves.</itunes:summary>
+    <itunes:subtitle>The last great generation of the Roman Republic emerges from the historical mists. The dynamic between Caesar, Cato, Cicero, Crassus and Pompey forms the axis around which the rest of this tale revolves.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Fri, 01 Apr 2011 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/38-Death_Throes_of_the_Republic_V.mp3" length="103174077" type="audio/mpeg" />
+    <itunes:duration>5149.57055</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>39 - Death Throes of the Republic VI</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/39-Death_Throes_of_the_Republic_VI.mp3</guid>
+    <description>In a massive finish to the “Dan Carlin version” of the fall of the Roman Republic, conspiracies, civil wars, beatniks of antiquity and a guy named Caesar figure prominently. Virtually everyone dies.</description>
+    <itunes:summary>In a massive finish to the “Dan Carlin version” of the fall of the Roman Republic, conspiracies, civil wars, beatniks of antiquity and a guy named Caesar figure prominently. Virtually everyone dies.</itunes:summary>
+    <itunes:subtitle>In a massive finish to the “Dan Carlin version” of the fall of the Roman Republic, conspiracies, civil wars, beatniks of antiquity and a guy named Caesar figure prominently. Virtually everyone dies.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Thu, 30 Jun 2011 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/39-Death_Throes_of_the_Republic_VI.mp3" length="312700424" type="audio/mpeg" />
+    <itunes:duration>19532.304375</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>40 - (BLITZ) Radical Thoughts</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/40-(BLITZ)_Radical_Thoughts.mp3</guid>
+    <description>Using the two 20th Century “Red Scare” eras as case studies, Dan looks at the fear that can be generated by potentially dangerous ideas and examines the way such powerful mass emotions can butt human judgment.</description>
+    <itunes:summary>Using the two 20th Century “Red Scare” eras as case studies, Dan looks at the fear that can be generated by potentially dangerous ideas and examines the way such powerful mass emotions can butt human judgment.</itunes:summary>
+    <itunes:subtitle>Using the two 20th Century “Red Scare” eras as case studies, Dan looks at the fear that can be generated by potentially dangerous ideas and examines the way such powerful mass emotions can butt human judgment.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Thu, 13 Oct 2011 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/40-(BLITZ)_Radical_Thoughts.mp3" length="114715203" type="audio/mpeg" />
+    <itunes:duration>9457.815583333333</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>41 - Thor's Angels</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/41-Thor's_Angels.mp3</guid>
+    <description>What started as a standard podcast episode morphed into an audio book on what used to be called “The Dark Ages” in Europe. Dan gets into many areas he should probably avoid…Gods, Germans, bikers, Jesus…</description>
+    <itunes:summary>What started as a standard podcast episode morphed into an audio book on what used to be called “The Dark Ages” in Europe. Dan gets into many areas he should probably avoid…Gods, Germans, bikers, Jesus…</itunes:summary>
+    <itunes:subtitle>What started as a standard podcast episode morphed into an audio book on what used to be called “The Dark Ages” in Europe. Dan gets into many areas he should probably avoid…Gods, Germans, bikers, Jesus…</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Thu, 19 Jan 2012 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/41-Thor's_Angels.mp3" length="234745619" type="audio/mpeg" />
+    <itunes:duration>14597.8258125</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>41B - (EXTRA) Thor's Angels</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/41B-(EXTRA)_Thor's_Angels.mp3</guid>
+    <description>More military history. More quintessentially “Dan” twists. More deep questions. In this “Director’s Cut” style addendum to HH 41 you get all that, plus cutting-room floor stuff and Dan talking about the challenges this episode posed and why he made Thor’s Angels the way he did.</description>
+    <itunes:summary>More military history. More quintessentially “Dan” twists. More deep questions. In this “Director’s Cut” style addendum to HH 41 you get all that, plus cutting-room floor stuff and Dan talking about the challenges this episode posed and why he made Thor’s Angels the way he did.</itunes:summary>
+    <itunes:subtitle>More military history. More quintessentially “Dan” twists. More deep questions. In this “Director’s Cut” style addendum to HH 41 you get all that, plus cutting-room floor stuff and Dan talking about the challenges this episode posed and why he made Thor’s Angels the way he did.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Thu, 19 Jan 2012 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/41B-(EXTRA)_Thor's_Angels.mp3" length="47593926" type="audio/mpeg" />
+    <itunes:duration>3936.26125</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>42 - (BLITZ) Logical Insanity</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/42-(BLITZ)_Logical_Insanity.mp3</guid>
+    <description>After many listener requests, Dan examines the issue of the morality of dropping the Atomic Bombs in the Second World War. As usual, he does so in his own unique, unexpected way.</description>
+    <itunes:summary>After many listener requests, Dan examines the issue of the morality of dropping the Atomic Bombs in the Second World War. As usual, he does so in his own unique, unexpected way.</itunes:summary>
+    <itunes:subtitle>After many listener requests, Dan examines the issue of the morality of dropping the Atomic Bombs in the Second World War. As usual, he does so in his own unique, unexpected way.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Sat, 31 Mar 2012 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/42-(BLITZ)_Logical_Insanity.mp3" length="107582839" type="audio/mpeg" />
+    <itunes:duration>8929.123333333333</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>42B - (EXTRA) Logical Insanity</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/42B-(EXTRA)_Logical_Insanity.mp3</guid>
+    <description>More military history. More quintessentially “Dan” twists. More deep questions. In this “Director’s Cut” style addendum to HH 42 you get all that, plus cutting-room floor stuff and Dan talking about the challenges this episode posed and why he made “Logical Insanity” the way he did.</description>
+    <itunes:summary>More military history. More quintessentially “Dan” twists. More deep questions. In this “Director’s Cut” style addendum to HH 42 you get all that, plus cutting-room floor stuff and Dan talking about the challenges this episode posed and why he made “Logical Insanity” the way he did.</itunes:summary>
+    <itunes:subtitle>More military history. More quintessentially “Dan” twists. More deep questions. In this “Director’s Cut” style addendum to HH 42 you get all that, plus cutting-room floor stuff and Dan talking about the challenges this episode posed and why he made “Logical Insanity” the way he did.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Sat, 31 Mar 2012 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/42B-(EXTRA)_Logical_Insanity.mp3" length="79639886" type="audio/mpeg" />
+    <itunes:duration>4933.2246875</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>43 - Wrath of the Khans I</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/43-Wrath_of_the_Khans_I.mp3</guid>
+    <description>In one of the most violent outbursts in history a little-known tribe of Eurasian nomads breaks upon the great societies of the Old World like a human tsunami. It may have ushered in the modern era, but at what cost?</description>
+    <itunes:summary>In one of the most violent outbursts in history a little-known tribe of Eurasian nomads breaks upon the great societies of the Old World like a human tsunami. It may have ushered in the modern era, but at what cost?</itunes:summary>
+    <itunes:subtitle>In one of the most violent outbursts in history a little-known tribe of Eurasian nomads breaks upon the great societies of the Old World like a human tsunami. It may have ushered in the modern era, but at what cost?</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Thu, 14 Jun 2012 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/43-Wrath_of_the_Khans_I.mp3" length="104447471" type="audio/mpeg" />
+    <itunes:duration>6422.5178125</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>44 - Wrath of the Khans II</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/44-Wrath_of_the_Khans_II.mp3</guid>
+    <description>The Mongol leader Genghis Khan displays an unmatched level of strategic genius while moving against both Northern China and the Eastern Islamic world. Both civilizations are left stunned and millions are slaughtered.</description>
+    <itunes:summary>The Mongol leader Genghis Khan displays an unmatched level of strategic genius while moving against both Northern China and the Eastern Islamic world. Both civilizations are left stunned and millions are slaughtered.</itunes:summary>
+    <itunes:subtitle>The Mongol leader Genghis Khan displays an unmatched level of strategic genius while moving against both Northern China and the Eastern Islamic world. Both civilizations are left stunned and millions are slaughtered.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Tue, 31 Jul 2012 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/44-Wrath_of_the_Khans_II.mp3" length="92080631" type="audio/mpeg" />
+    <itunes:duration>5709.636125</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>45 - Wrath of the Khans III</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/45-Wrath_of_the_Khans_III.mp3</guid>
+    <description>The expansion of Genghis Khan’s conquests continue, with locations as far apart as Europe and China feeling the bloody effects of Mongol warfare and retribution. Can anything halt the carnage?</description>
+    <itunes:summary>The expansion of Genghis Khan’s conquests continue, with locations as far apart as Europe and China feeling the bloody effects of Mongol warfare and retribution. Can anything halt the carnage?</itunes:summary>
+    <itunes:subtitle>The expansion of Genghis Khan’s conquests continue, with locations as far apart as Europe and China feeling the bloody effects of Mongol warfare and retribution. Can anything halt the carnage?</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Sun, 23 Sep 2012 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/45-Wrath_of_the_Khans_III.mp3" length="86264767" type="audio/mpeg" />
+    <itunes:duration>5304.137375</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>46 - Wrath of the Khans IV</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/46-Wrath_of_the_Khans_IV.mp3</guid>
+    <description>The death of Genghis Khan, the founder of the Mongol Empire, should have slowed the momentum of Mongol conquests, but instead it accelerated it. This time though, all of Europe is on the Mongol hit list.</description>
+    <itunes:summary>The death of Genghis Khan, the founder of the Mongol Empire, should have slowed the momentum of Mongol conquests, but instead it accelerated it. This time though, all of Europe is on the Mongol hit list.</itunes:summary>
+    <itunes:subtitle>The death of Genghis Khan, the founder of the Mongol Empire, should have slowed the momentum of Mongol conquests, but instead it accelerated it. This time though, all of Europe is on the Mongol hit list.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Tue, 13 Nov 2012 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/46-Wrath_of_the_Khans_IV.mp3" length="88602066" type="audio/mpeg" />
+    <itunes:duration>5479.05325</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>47 - Wrath of the Khans V</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/47-Wrath_of_the_Khans_V.mp3</guid>
+    <description>Succession issues weaken the Mongol Empire as the grandchildren of Genghis Khan fight over their imperial inheritance. This doesn’t stop them from dealing out pain, suffering, and ironically good governance while doing so.</description>
+    <itunes:summary>Succession issues weaken the Mongol Empire as the grandchildren of Genghis Khan fight over their imperial inheritance. This doesn’t stop them from dealing out pain, suffering, and ironically good governance while doing so.</itunes:summary>
+    <itunes:subtitle>Succession issues weaken the Mongol Empire as the grandchildren of Genghis Khan fight over their imperial inheritance. This doesn’t stop them from dealing out pain, suffering, and ironically good governance while doing so.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Sun, 13 Jan 2013 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/47-Wrath_of_the_Khans_V.mp3" length="122485610" type="audio/mpeg" />
+    <itunes:duration>7612.0558125</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>47B - (EXTRA) Wrath of the Khans</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/47B-(EXTRA)_Wrath_of_the_Khans.mp3</guid>
+    <description>More military history. More quintessentially “Dan” twists. More deep questions. In this “Director’s Cut” style addendum to HH 47 you get all that, plus cutting-room floor stuff and Dan talking about the challenges this episode posed and why he made “Wrath of the Khans” the way he did.</description>
+    <itunes:summary>More military history. More quintessentially “Dan” twists. More deep questions. In this “Director’s Cut” style addendum to HH 47 you get all that, plus cutting-room floor stuff and Dan talking about the challenges this episode posed and why he made “Wrath of the Khans” the way he did.</itunes:summary>
+    <itunes:subtitle>More military history. More quintessentially “Dan” twists. More deep questions. In this “Director’s Cut” style addendum to HH 47 you get all that, plus cutting-room floor stuff and Dan talking about the challenges this episode posed and why he made “Wrath of the Khans” the way he did.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Sun, 13 Jan 2013 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/47B-(EXTRA)_Wrath_of_the_Khans.mp3" length="87649665" type="audio/mpeg" />
+    <itunes:duration>7267.213166666666</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>48 - Prophets of Doom</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/48-Prophets_of_Doom.mp3</guid>
+    <description>Murderous millennial preachers and prophets take over the German city of Munster after Martin Luther unleashes a Pandora’s Box of religious anarchy with the Protestant Reformation.</description>
+    <itunes:summary>Murderous millennial preachers and prophets take over the German city of Munster after Martin Luther unleashes a Pandora’s Box of religious anarchy with the Protestant Reformation.</itunes:summary>
+    <itunes:subtitle>Murderous millennial preachers and prophets take over the German city of Munster after Martin Luther unleashes a Pandora’s Box of religious anarchy with the Protestant Reformation.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Mon, 22 Apr 2013 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/48-Prophets_of_Doom.mp3" length="247125699" type="audio/mpeg" />
+    <itunes:duration>15336.438125</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>49 - The American Peril</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/49-The_American_Peril.mp3</guid>
+    <description>Imperial temptations and humanitarian nightmares force the United States of the late 19th Century to confront the contradictions between its revolutionary self-image and its expanding national interests.</description>
+    <itunes:summary>Imperial temptations and humanitarian nightmares force the United States of the late 19th Century to confront the contradictions between its revolutionary self-image and its expanding national interests.</itunes:summary>
+    <itunes:subtitle>Imperial temptations and humanitarian nightmares force the United States of the late 19th Century to confront the contradictions between its revolutionary self-image and its expanding national interests.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Thu, 25 Jul 2013 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/49-The_American_Peril.mp3" length="237556256" type="audio/mpeg" />
+    <itunes:duration>14740.663375</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>50 - Blueprint for Armageddon I</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/50-Blueprint_for_Armageddon_I.mp3</guid>
+    <description>The planet hadn’t seen a major war between all the Great Powers since the downfall of Napoleon at Waterloo in 1815. But 99 years later the dam breaks and a Pandora’s Box of violence engulfs the planet.</description>
+    <itunes:summary>The planet hadn’t seen a major war between all the Great Powers since the downfall of Napoleon at Waterloo in 1815. But 99 years later the dam breaks and a Pandora’s Box of violence engulfs the planet.</itunes:summary>
+    <itunes:subtitle>The planet hadn’t seen a major war between all the Great Powers since the downfall of Napoleon at Waterloo in 1815. But 99 years later the dam breaks and a Pandora’s Box of violence engulfs the planet.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Tue, 29 Oct 2013 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/50-Blueprint_for_Armageddon_I.mp3" length="184016902" type="audio/mpeg" />
+    <itunes:duration>11381.08125</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>51 - Blueprint for Armageddon II</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/51-Blueprint_for_Armageddon_II.mp3</guid>
+    <description>The Great Powers all come out swinging in the first round of the worst war the planet has ever seen. Millions of men in dozens of armies vie in the most deadly and complex opening moves of any conflict in world history.</description>
+    <itunes:summary>The Great Powers all come out swinging in the first round of the worst war the planet has ever seen. Millions of men in dozens of armies vie in the most deadly and complex opening moves of any conflict in world history.</itunes:summary>
+    <itunes:subtitle>The Great Powers all come out swinging in the first round of the worst war the planet has ever seen. Millions of men in dozens of armies vie in the most deadly and complex opening moves of any conflict in world history.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Thu, 30 Jan 2014 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/51-Blueprint_for_Armageddon_II.mp3" length="193836697" type="audio/mpeg" />
+    <itunes:duration>12028.944125</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>52 - Blueprint for Armageddon III</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/52-Blueprint_for_Armageddon_III.mp3</guid>
+    <description>The war of maneuver that was supposed to be over quickly instead turns into a lingering bloody stalemate. Trench warfare begins, and with it, all the murderous efforts on both sides to overcome the static defenses.</description>
+    <itunes:summary>The war of maneuver that was supposed to be over quickly instead turns into a lingering bloody stalemate. Trench warfare begins, and with it, all the murderous efforts on both sides to overcome the static defenses.</itunes:summary>
+    <itunes:subtitle>The war of maneuver that was supposed to be over quickly instead turns into a lingering bloody stalemate. Trench warfare begins, and with it, all the murderous efforts on both sides to overcome the static defenses.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Thu, 24 Apr 2014 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/52-Blueprint_for_Armageddon_III.mp3" length="226093162" type="audio/mpeg" />
+    <itunes:duration>14048.287875</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>53 - Blueprint for Armageddon IV</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/53-Blueprint_for_Armageddon_IV.mp3</guid>
+    <description>Machine guns, barbed wire and millions upon millions of artillery shells create industrialized meat grinders at Verdun and the Somme. There’s never been a human experience like it…and it changes a generation.</description>
+    <itunes:summary>Machine guns, barbed wire and millions upon millions of artillery shells create industrialized meat grinders at Verdun and the Somme. There’s never been a human experience like it…and it changes a generation.</itunes:summary>
+    <itunes:subtitle>Machine guns, barbed wire and millions upon millions of artillery shells create industrialized meat grinders at Verdun and the Somme. There’s never been a human experience like it…and it changes a generation.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Sun, 17 Aug 2014 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/53-Blueprint_for_Armageddon_IV.mp3" length="226905886" type="audio/mpeg" />
+    <itunes:duration>14151.4976875</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>54 - Blueprint for Armageddon V</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/54-Blueprint_for_Armageddon_V.mp3</guid>
+    <description>Politics, diplomacy, revolution and mutiny take center stage at the start of this episode, but mud, blood, shells and tragedy drown all by the end.</description>
+    <itunes:summary>Politics, diplomacy, revolution and mutiny take center stage at the start of this episode, but mud, blood, shells and tragedy drown all by the end.</itunes:summary>
+    <itunes:subtitle>Politics, diplomacy, revolution and mutiny take center stage at the start of this episode, but mud, blood, shells and tragedy drown all by the end.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Tue, 30 Dec 2014 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/54-Blueprint_for_Armageddon_V.mp3" length="259429328" type="audio/mpeg" />
+    <itunes:duration>16197.4340625</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>55 - Blueprint for Armageddon VI</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/55-Blueprint_for_Armageddon_VI.mp3</guid>
+    <description>The Americans are coming, but will the war be over by the time they get there? Germany throws everything into a last series of stupendous attacks in the West while hoping to avoid getting burned by a fire in the East they helped fan.</description>
+    <itunes:summary>The Americans are coming, but will the war be over by the time they get there? Germany throws everything into a last series of stupendous attacks in the West while hoping to avoid getting burned by a fire in the East they helped fan.</itunes:summary>
+    <itunes:subtitle>The Americans are coming, but will the war be over by the time they get there? Germany throws everything into a last series of stupendous attacks in the West while hoping to avoid getting burned by a fire in the East they helped fan.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Wed, 06 May 2015 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/55-Blueprint_for_Armageddon_VI.mp3" length="246726853" type="audio/mpeg" />
+    <itunes:duration>15403.1809375</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>56 - Kings of Kings I</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/56-Kings_of_Kings_I.mp3</guid>
+    <description>Often relegated to the role of slavish cannon fodder for Sparta’s spears, the Achaemenid Persian empire had a glorious heritage. Under a single king they created the greatest empire the world had ever seen.</description>
+    <itunes:summary>Often relegated to the role of slavish cannon fodder for Sparta’s spears, the Achaemenid Persian empire had a glorious heritage. Under a single king they created the greatest empire the world had ever seen.</itunes:summary>
+    <itunes:subtitle>Often relegated to the role of slavish cannon fodder for Sparta’s spears, the Achaemenid Persian empire had a glorious heritage. Under a single king they created the greatest empire the world had ever seen.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Thu, 29 Oct 2015 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/56-Kings_of_Kings_I.mp3" length="204625133" type="audio/mpeg" />
+    <itunes:duration>12760.137625</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>57 - Kings of Kings II</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/57-Kings_of_Kings_II.mp3</guid>
+    <description>From Biblical-era coup conspiracies to the horrific aftermath of ancient combat this second installment of the series on the Kings of Achaemenid Persia goes where only Dan can take it. For better or worse…</description>
+    <itunes:summary>From Biblical-era coup conspiracies to the horrific aftermath of ancient combat this second installment of the series on the Kings of Achaemenid Persia goes where only Dan can take it. For better or worse…</itunes:summary>
+    <itunes:subtitle>From Biblical-era coup conspiracies to the horrific aftermath of ancient combat this second installment of the series on the Kings of Achaemenid Persia goes where only Dan can take it. For better or worse…</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Sun, 20 Mar 2016 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/57-Kings_of_Kings_II.mp3" length="245664339" type="audio/mpeg" />
+    <itunes:duration>15342.0021875</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>58 - Kings of Kings III</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/58-Kings_of_Kings_III.mp3</guid>
+    <description>If this were a movie, the events and cameos would be too numerous and star-studded to mention. It includes Xerxes, Spartans, Immortals, Alexander the Great, scythed chariots, and several of the greatest battles in history.</description>
+    <itunes:summary>If this were a movie, the events and cameos would be too numerous and star-studded to mention. It includes Xerxes, Spartans, Immortals, Alexander the Great, scythed chariots, and several of the greatest battles in history.</itunes:summary>
+    <itunes:subtitle>If this were a movie, the events and cameos would be too numerous and star-studded to mention. It includes Xerxes, Spartans, Immortals, Alexander the Great, scythed chariots, and several of the greatest battles in history.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Sun, 07 Aug 2016 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/58-Kings_of_Kings_III.mp3" length="291087849" type="audio/mpeg" />
+    <itunes:duration>18172.7614375</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>59 - (BLITZ) The Destroyer of Worlds</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/59-(BLITZ)_The_Destroyer_of_Worlds.mp3</guid>
+    <description>What happens if human beings can’t handle the power of their own weaponry? This show  examines the dangerous early years of the Nuclear Age and humankind’s efforts to avoid self-destruction at the hands of its own creation.</description>
+    <itunes:summary>What happens if human beings can’t handle the power of their own weaponry? This show  examines the dangerous early years of the Nuclear Age and humankind’s efforts to avoid self-destruction at the hands of its own creation.</itunes:summary>
+    <itunes:subtitle>What happens if human beings can’t handle the power of their own weaponry? This show  examines the dangerous early years of the Nuclear Age and humankind’s efforts to avoid self-destruction at the hands of its own creation.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Tue, 24 Jan 2017 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/59-(BLITZ)_The_Destroyer_of_Worlds.mp3" length="252664954" type="audio/mpeg" />
+    <itunes:duration>20973.113666666668</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>60 - The Celtic Holocaust</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/60-The_Celtic_Holocaust.mp3</guid>
+    <description>Julius Caesar is our travel guide as he takes us through his murderous subjugation of the native Celtic tribal peoples of ancient Gaul. It sounds vaguely like other, recent European colonial conquests...until the natives nearly win.</description>
+    <itunes:summary>Julius Caesar is our travel guide as he takes us through his murderous subjugation of the native Celtic tribal peoples of ancient Gaul. It sounds vaguely like other, recent European colonial conquests...until the natives nearly win.</itunes:summary>
+    <itunes:subtitle>Julius Caesar is our travel guide as he takes us through his murderous subjugation of the native Celtic tribal peoples of ancient Gaul. It sounds vaguely like other, recent European colonial conquests...until the natives nearly win.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Thu, 10 Aug 2017 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/60-The_Celtic_Holocaust.mp3" length="259569760" type="audio/mpeg" />
+    <itunes:duration>21590.62225</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>61 - (BLITZ) Painfotainment</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/61-(BLITZ)_Painfotainment.mp3</guid>
+    <description>Pain is at the root of most drama and entertainment. When does it get too real? This very disturbing and graphic show looks into some case studies and asks some deep questions. WARNING: Very intense subject matter.</description>
+    <itunes:summary>Pain is at the root of most drama and entertainment. When does it get too real? This very disturbing and graphic show looks into some case studies and asks some deep questions. WARNING: Very intense subject matter.</itunes:summary>
+    <itunes:subtitle>Pain is at the root of most drama and entertainment. When does it get too real? This very disturbing and graphic show looks into some case studies and asks some deep questions. WARNING: Very intense subject matter.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Mon, 29 Jan 2018 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/61-(BLITZ)_Painfotainment.mp3" length="198668678" type="audio/mpeg" />
+    <itunes:duration>16437.107083333332</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>62 - Supernova in the East I</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/62-Supernova_in_the_East_I.mp3</guid>
+    <description>The Asia-Pacific War of 1937-1945 has deep roots. It also involves a Japanese society that’s been called one of the most distinctive on Earth. If there were a Japanese version of Captain America, this would be his origin story.</description>
+    <itunes:summary>The Asia-Pacific War of 1937-1945 has deep roots. It also involves a Japanese society that’s been called one of the most distinctive on Earth. If there were a Japanese version of Captain America, this would be his origin story.</itunes:summary>
+    <itunes:subtitle>The Asia-Pacific War of 1937-1945 has deep roots. It also involves a Japanese society that’s been called one of the most distinctive on Earth. If there were a Japanese version of Captain America, this would be his origin story.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Sat, 14 Jul 2018 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/62-Supernova_in_the_East_I.mp3" length="196381949" type="audio/mpeg" />
+    <itunes:duration>16297.19525</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>63 - Supernova in the East II</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/63-Supernova_in_the_East_II.mp3</guid>
+    <description>Deep themes run through this show, with allegations of Japanese war crimes and atrocities in China at the start leading to eerily familiar, almost modern questions over how the world should respond. And then Dec 7, 1941 arrives...</description>
+    <itunes:summary>Deep themes run through this show, with allegations of Japanese war crimes and atrocities in China at the start leading to eerily familiar, almost modern questions over how the world should respond. And then Dec 7, 1941 arrives...</itunes:summary>
+    <itunes:subtitle>Deep themes run through this show, with allegations of Japanese war crimes and atrocities in China at the start leading to eerily familiar, almost modern questions over how the world should respond. And then Dec 7, 1941 arrives...</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Sat, 12 Jan 2019 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/63-Supernova_in_the_East_II.mp3" length="177723713" type="audio/mpeg" />
+    <itunes:duration>14722.063833333334</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>64 - Supernova in the East III</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/64-Supernova_in_the_East_III.mp3</guid>
+    <description>Japan's rising sun goes supernova and engulfs a huge area of Asia and the Pacific. A war without mercy begins to develop infusing the whole conflict with a savage vibe.</description>
+    <itunes:summary>Japan's rising sun goes supernova and engulfs a huge area of Asia and the Pacific. A war without mercy begins to develop infusing the whole conflict with a savage vibe.</itunes:summary>
+    <itunes:subtitle>Japan's rising sun goes supernova and engulfs a huge area of Asia and the Pacific. A war without mercy begins to develop infusing the whole conflict with a savage vibe.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Thu, 24 Oct 2019 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/64-Supernova_in_the_East_III.mp3" length="282703164" type="audio/mpeg" />
+    <itunes:duration>17623.0145</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+<item>
+    <title>65 - Supernova in the East IV</title>
+    <guid>http://example.com/resources/podcasts/hardcore-history/mp3s/65-Supernova_in_the_East_IV.mp3</guid>
+    <description>Coral Sea, Midway and Guadalcanal are three of the most famous battles of the Second World War. Together they will shift the momentum in the Pacific theater and usher in the era of modern naval and amphibious warfare.</description>
+    <itunes:summary>Coral Sea, Midway and Guadalcanal are three of the most famous battles of the Second World War. Together they will shift the momentum in the Pacific theater and usher in the era of modern naval and amphibious warfare.</itunes:summary>
+    <itunes:subtitle>Coral Sea, Midway and Guadalcanal are three of the most famous battles of the Second World War. Together they will shift the momentum in the Pacific theater and usher in the era of modern naval and amphibious warfare.</itunes:subtitle>
+    <link>http://www.dancarlin.com</link>
+    <pubDate>Wed, 03 Jun 2020 00:00:00 -0000</pubDate>
+    <enclosure url="http://example.com/resources/podcasts/hardcore-history/mp3s/65-Supernova_in_the_East_IV.mp3" length="174313938" type="audio/mpeg" />
+    <itunes:duration>14313.3365</itunes:duration>
+    <itunes:keywords>History, Military, War, Ancient, Archaeology, Classics, Carlin</itunes:keywords>
+    <itunes:image>http://example.com/resources/podcasts/hardcore-history/images/HH.jpg</itunes:image>
+</item>
+</rss>
